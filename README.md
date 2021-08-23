@@ -7,6 +7,8 @@ Platzi
 
 https.//platzi.com
 
+- -> Ejemplo https://deiviiss.github.io/simonDice/
+
 Conceptos
 
 - for
